@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+e:\calismalar\yazilim\c++\leetcode\016_chunking\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): warning C4244: 'bağımsız değişken': 'double' - 'const unsigned int' dönüşümü; veri kaybı olabilir
+  ConsoleApplication1.vcxproj -> E:\Calismalar\Yazilim\C++\LeetCode\016_Chunking\ConsoleApplication1\Debug\ConsoleApplication1.exe
